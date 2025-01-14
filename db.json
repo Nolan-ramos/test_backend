@@ -1,0 +1,40 @@
+{
+    "produits": [
+      {
+        "id": 1,
+        "nom": "T-shirt imprimé",
+        "categorie": "Vêtements",
+        "prix": 19.99,
+        "disponible": 50
+      },
+      {
+        "id": 2,
+        "nom": "Sac à dos en cuir",
+        "categorie": "Accessoires",
+        "prix": 49.99,
+        "disponible": 30
+      },
+      {
+        "id": 3,
+        "nom": "Montre analogique",
+        "categorie": "Accessoires",
+        "prix": 79.99,
+        "disponible": 15
+      },
+      {
+        "id": 4,
+        "nom": "Chaussures de sport",
+        "categorie": "Vêtements",
+        "prix": 89.99,
+        "disponible": 20
+      },
+      {
+        "id": 5,
+        "nom": "Casque audio Bluetooth",
+        "categorie": "Électronique",
+        "prix": 99.99,
+        "disponible": 40
+      }
+    ]
+  }
+  
